@@ -1,0 +1,2 @@
+# Gestion-Hopital-JEE
+Développement d'une application JEE pour la gestion d'un hôpital : le personnel hospitalier peut accéder à ses espaces personnels après s'être inscrit et authentifié pour planifier son travail dans son espace personnel, les visiteurs peuvent également y accéder pour prendre leurs rendez-vous. vous et consulter les services de l'hôpital. Les tâches administratives (mise à jour et modification des données du site par exemple) seront réalisées par un administrateur authentifié.
